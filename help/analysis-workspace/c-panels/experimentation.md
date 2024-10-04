@@ -56,7 +56,7 @@ In Customer Journey Analytics data views settings, admins can add [context label
 * [!UICONTROL Experimentation Experiment]
 * [!UICONTROL Experimentation Variant]
 
-In your data view that contains experimentation data, pick two dimension, one with the experimentation data and one with the variant data. Then label those dimensions with the **[!UICONTROL Experimentation Experiment]** and the **[!UICONTROL Experimentation Variant]** labels.
+In your data view that contains experimentation data, pick two dimensions, one with the experimentation data and one with the variant data. Then label those dimensions with the **[!UICONTROL Experimentation Experiment]** and the **[!UICONTROL Experimentation Variant]** labels.
 
 ![Context label options for Experimentation and Experimentation Variant.](assets/context-label.png)
 
